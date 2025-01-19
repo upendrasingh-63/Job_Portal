@@ -2,12 +2,15 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
+import Jobs from "./components/Jobs";
+import Login from "./components/Login";
+import Signup from "./components/Signup";
 
 // Placeholder Pages
 //const Home = () => <h1 className="text-center text-3xl mt-4">Home Page</h1>;
-const Jobs = () => <h1 className="text-center text-3xl mt-4">Jobs Page</h1>;
-const Login = () => <h1 className="text-center text-3xl mt-4">Login Page</h1>;
-const Signup = () => <h1 className="text-center text-3xl mt-4">Signup Page</h1>;
+//const Jobs = () => <h1 className="text-center text-3xl mt-4">Jobs Page</h1>;
+//const Login = () => <h1 className="text-center text-3xl mt-4">Login Page</h1>;
+//const Signup = () => <h1 className="text-center text-3xl mt-4">Signup Page</h1>;
 
 function App() {
   return (

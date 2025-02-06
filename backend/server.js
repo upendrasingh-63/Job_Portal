@@ -5,6 +5,7 @@ import cookieParser from "cookie-parser";
 import dotenv from 'dotenv';
 import userroute from './routes/user.route.js';
 import jobroute from './routes/job.route.js';
+import companyroute from './routes/company.route.js';
 
 dotenv.config();
 
@@ -25,6 +26,7 @@ app.use(cors(corsOptions));
 
 app.use('/api/user', userroute);
 app.use('/api/job', jobroute);
+app.use("/api/company", companyroute);
 
 // Basic Route
 app.get('/', (req, res) => {

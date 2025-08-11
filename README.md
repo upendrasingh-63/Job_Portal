@@ -2,11 +2,11 @@
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
-💼 Job_Portal_LUKA – A Modern Job Portal Platform
+💼 Job_Portal_LUKA – A Modern Job Portal Platform - Team Project
 
 JobConnect is a full-featured job portal web application built using the MERN stack. This platform connects job seekers with employers in a smooth, intuitive interface and provides a dynamic experience for job posting, browsing, filtering, and application tracking.
 
-👨‍💻 Frontend Developed by: [Your Name]
+👨‍💻 Frontend Developed by: Kartik Chahar
 🛠️ Tech Stack: React.js, Tailwind CSS, Redux, Axios, React Router, MERN
 
 ⸻
